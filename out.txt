@@ -1,0 +1,22 @@
+  
+aaa declared at index 0  
+bbb declared at index 1  
+ccc declared at index 2  
+x declared at index 3  
+y declared at index 4 
+valid declaration
+      
+aaa = 10             
+ccc = 110 
+hello,people!;
+             true condition in if block 108
+                  true condition in else block 10
+true condition in else block 108
+                          Entered loop total 3 times 
+Entered loop total 3 times 
+  
+ccc = 110  
+bbb = 20                    true in case for 10 and found value = 10
+  
+x = 0
+successful compilation

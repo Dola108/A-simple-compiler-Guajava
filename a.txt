@@ -1,0 +1,42 @@
+void mainf() {
+int aaa , bbb , ccc , x , y ;
+aaa = 10;
+bbb = 20;
+out-> aaa ;
+ccc = 2 * aaa + 35 * 2 + bbb ;
+out-> ccc ;
+out-> hello,people!;
+	if( 0 )  {
+		if( 1 ) {
+			ccc = ccc - 2 ;
+		} 
+	} else {
+		if( ccc > 300) {
+			ccc = ccc - 100;
+			aaa = ccc - 100;
+		} else {
+			aaa = 12;
+		}
+	}
+	loop ( x = 0 , x < 3 , x++ ) {
+		loop ( y = 0 , y < 3 , y++ ) {
+			aaa = 22;
+		}
+	}
+	out-> ccc ;
+	out-> bbb ;
+
+	check ( aaa ) { 
+		for_case 10 : 
+			x = 10; 
+			done;
+		for_case 12 : 
+			x = 12; 
+			done;
+		otherwise :
+			x = 0;
+			done;
+	}
+
+	out-> x ;
+}
